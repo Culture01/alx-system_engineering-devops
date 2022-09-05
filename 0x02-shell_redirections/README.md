@@ -1,1 +1,1 @@
-Write a script that lists all the files with 
+An acrostic is a poem 
